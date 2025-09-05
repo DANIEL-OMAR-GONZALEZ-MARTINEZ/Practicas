@@ -2,14 +2,14 @@
 # Práctica: AWS con Asciinema  
 
 **Alumno:** Daniel Omar González Martínez  
-**Carrera:** Ingeniería en Sistemas Computacionales  
-**Materia:** (Nombre de la materia que corresponda)  
+**Carrera:** Ingeniería Informatica  
+**Materia:** Patrones de diseño de software
 **Fecha:** 04 de septiembre de 2025  
 
 ---
 
 ## 🎯 Objetivo
-El estudiante será capaz de crear una instancia EC2 en AWS Academy, instalar Asciinema, grabar una sesión de actualización del sistema operativo con comandos básicos de Linux y finalmente compartir el enlace de la grabación.  
+Crear una instancia EC2 en AWS Academy, instalar Asciinema, grabar una sesión de actualización del sistema operativo con comandos básicos de Linux y  compartir el enlace de la grabación.  
 
 ---
 
@@ -18,7 +18,7 @@ El estudiante será capaz de crear una instancia EC2 en AWS Academy, instalar As
 ### 1. Creación de la instancia EC2
 - Accedí a **AWS Academy**.  
 - Creé una instancia **EC2 Ubuntu LTS**.  
-- Tipo de instancia: **t2.micro** (recomendado para prácticas básicas).  
+- Tipo de instancia: **t2.micro** 
 
 ### 2. Conexión SSH
 - Me conecté desde el panel web de AWS Academy usando la opción **Conexión remota SSH**.  
